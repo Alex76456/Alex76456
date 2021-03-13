@@ -1,4 +1,4 @@
-[![Header](./assets/header.png)](https://github.com/Alex76456?tab=repositories)
+[![Header width = 100%](./assets/header.png)](https://github.com/Alex76456?tab=repositories)
 
 ## I'm  front-end developer
 
