@@ -18,4 +18,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/aleksey-logvenkin-9292a9209/)
 
 
-[<img src="https://github-readme-stats.vercel.app/api?username=Alex76456&show_icons=true" width="100%">](https://github.com/Alex76456/github-readme-stats)
+[<img src="https://github-readme-stats.vercel.app/api?username=Alex76456&show_icons=true" width="80%">](https://github.com/Alex76456/github-readme-stats)
