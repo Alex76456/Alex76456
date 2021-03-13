@@ -1,4 +1,4 @@
-[![Header](./assets/header.png)](https://github.com/Alex76456?tab=repositories)
+[<img src="./assets/header.png" width="100%">](https://github.com/Alex76456?tab=repositories)
 
 ## I'm  front-end developer
 
@@ -18,4 +18,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/aleksey-logvenkin-9292a9209/)
 
 
-[![Alex76456's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex76456&show_icons=true)](https://github.com/Alex76456/github-readme-stats)
+[<img src="https://github-readme-stats.vercel.app/api?username=Alex76456&show_icons=true" width="100%">](https://github.com/Alex76456/github-readme-stats)
