@@ -1,4 +1,4 @@
-[<img src="./assets/header.png" width="100%">](https://github.com/Alex76456?tab=repositories)
+[<img src="./assets/SunriseHorizon.gif" width="100%">](https://github.com/Alex76456?tab=repositories)
 
 ## I'm  front-end developer
 
