@@ -5,13 +5,15 @@
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=4F7DB3)
+![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js&logoColor=green)
+![Express](https://img.shields.io/badge/-Express.js-090909?style=for-the-badge&logo=Express&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Github&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=orange)
+![MongoDB](https://img.shields.io/badge/-Mongodb-090909?style=for-the-badge&logo=mongoDB&logoColor=GREEN)
 
 ### In progress:
-![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js&logoColor=green)
-![Express](https://img.shields.io/badge/-Express.js-090909?style=for-the-badge&logo=Express&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=Next.js&logoColor=green)
 
 ### Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alogvenkin)
