@@ -16,14 +16,7 @@
 ### In progress:
 ![Node.js](https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=Next.js&logoColor=green)
 
-### Follow Me:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alogvenkin)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/logvenkin)
-[![codewars](https://img.shields.io/badge/-codewars-090909?style=for-the-badge&logo=codewars&logoColor=red)](https://www.codewars.com/users/Aleksey%20L.%2019-cohort-Lime)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/aleksey-logvenkin-9292a9209/)
 
-
-[<img src="https://github-readme-stats.vercel.app/api?username=Alex76456&show_icons=true" width="80%">](https://github.com/Alex76456/github-readme-stats)
 
 **Проекты, которые стоит упомянуть:**
 
@@ -34,11 +27,27 @@
 
     Совместный предновогодний хакатон веб- и дизайн-факультетов.
 
+## Тестовые задания:
+* ### Pultpage:
+
+    https://github.com/Alex76456/pultpage
+
+    это тестовое задание от компании Pult.
+
 
 ## Учебные проекты:
 * ### Mesto:
 
     https://github.com/Alex76456/react-mesto-api-full
 
-    Совместный предновогодний хакатон веб- и дизайн-факультетов.
+    Проект включает фронтенд и бэкенд части приложения с возможностями: авторизации и регистрации пользователей, операции с карточками и пользователями.
 
+
+### Follow Me:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alogvenkin)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/logvenkin)
+[![codewars](https://img.shields.io/badge/-codewars-090909?style=for-the-badge&logo=codewars&logoColor=red)](https://www.codewars.com/users/Aleksey%20L.%2019-cohort-Lime)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/aleksey-logvenkin-9292a9209/)
+
+
+[<img src="https://github-readme-stats.vercel.app/api?username=Alex76456&show_icons=true" width="70%">](https://github.com/Alex76456/github-readme-stats)
