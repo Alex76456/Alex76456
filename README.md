@@ -24,3 +24,21 @@
 
 
 [<img src="https://github-readme-stats.vercel.app/api?username=Alex76456&show_icons=true" width="80%">](https://github.com/Alex76456/github-readme-stats)
+
+**Проекты, которые стоит упомянуть:**
+
+## Командные проекты:
+* ### Хакатон «2025: Гражданин-поэт»:
+
+    https://github.com/Alex76456/talksolver
+
+    Совместный предновогодний хакатон веб- и дизайн-факультетов.
+
+
+## Учебные проекты:
+* ### Mesto:
+
+    https://github.com/Alex76456/react-mesto-api-full
+
+    Совместный предновогодний хакатон веб- и дизайн-факультетов.
+
