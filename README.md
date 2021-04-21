@@ -16,7 +16,7 @@
 ![MongoDB](https://img.shields.io/badge/-Mongodb-090909?style=for-the-badge&logo=mongoDB&logoColor=GREEN)
 
 <a href="https://www.codewars.com/users/Aleksey%20L.%2019-cohort-Lime"  target="_blank">
-      <img src="https://www.codewars.com/users/Aleksey%20L.%2019-cohort-Lime/badges/micro" alt="Codewars"/>
+      <img src="https://www.codewars.com/users/Aleksey%20Logvenkin/badges/micro" alt="Codewars"/>
     </a></br>
 
 ### In progress:
