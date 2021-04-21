@@ -2,6 +2,8 @@
 
 ## I'm  front-end developer
 
+
+
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=4F7DB3)
@@ -12,6 +14,10 @@
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=orange)
 ![MongoDB](https://img.shields.io/badge/-Mongodb-090909?style=for-the-badge&logo=mongoDB&logoColor=GREEN)
+
+<a href="https://www.codewars.com/users/Aleksey%20L.%2019-cohort-Lime"  target="_blank">
+      <img src="https://www.codewars.com/users/Aleksey%20L.%2019-cohort-Lime/badges/micro" alt="Codewars"/>
+    </a></br>
 
 ### In progress:
 ![Node.js](https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=Next.js&logoColor=green)
@@ -58,3 +64,5 @@
 
 
 [<img src="https://github-readme-stats.vercel.app/api?username=Alex76456&show_icons=true" width="70%">](https://github.com/Alex76456/github-readme-stats)
+
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=Alex76456.Alex76456" alt="visitors"></p>
