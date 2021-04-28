@@ -20,6 +20,7 @@
     </a></br>
 
 ### In progress:
+![typescript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript&logoColor=blue)
 ![Node.js](https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=Next.js&logoColor=green)
 
 
