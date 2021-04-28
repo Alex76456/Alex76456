@@ -36,7 +36,7 @@
 ## Собственные проекты:
 * ### Yandex: search-books:
 
-    https://alex76456.github.io/search-books/
+    https://github.com/Alex76456/search-books
 
     поисковик книг /хуки/ api/ дизайн-тестовое
 * ### Welbex:
