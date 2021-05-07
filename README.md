@@ -1,7 +1,12 @@
-[<img src="./assets/SunriseHorizon.gif" width="100%">](https://github.com/Alex76456?tab=repositories)
+[<img src="./assets/Untitled design-Max-Quality.jpg" width="100%">](https://github.com/Alex76456?tab=repositories)
 
 ## I'm  front-end developer
 
+**I'm at the beginning of my journey.**
+
+**A big part of it is behind me.**
+
+**But more awaits ahead.**
 
 
 ### Languages and Tools:
