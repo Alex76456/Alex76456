@@ -2,11 +2,11 @@
 
 ## I'm  front-end developer
 
-**I'm at the beginning of my journey.**
+## I'm at the beginning of my journey.
 
-**A big part of it is behind me.**
+## A big part of it is behind me.
 
-**But more awaits ahead.**
+## But more awaits ahead.
 
 
 ### Languages and Tools:
