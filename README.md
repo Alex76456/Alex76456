@@ -49,6 +49,8 @@
 
     https://github.com/Alex76456/search-books
 
+    TypeScript https://github.com/Alex76456/search-books-ts
+
     поисковик книг /хуки/ api/ дизайн-тестовое
 * ### Welbex:
 
