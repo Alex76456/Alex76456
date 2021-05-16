@@ -10,6 +10,7 @@
 
 
 ### Languages and Tools:
+![typescript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=4F7DB3)
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js&logoColor=green)
@@ -25,8 +26,7 @@
     </a></br>
 
 ### In progress:
-![typescript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript&logoColor=blue)
-![Node.js](https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=Next.js&logoColor=green)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=green)
 
 
 
