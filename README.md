@@ -45,6 +45,12 @@
     Совместный предновогодний хакатон веб- и дизайн-факультетов.
 
 ## Собственные проекты:
+
+* ### Vertical-bar-chart:
+
+    https://github.com/Alex76456/vertical-bar-chart
+
+    React+TypeScript вертикальная столбчатая диаграмма
 * ### Yandex: search-books:
 
     https://github.com/Alex76456/search-books
