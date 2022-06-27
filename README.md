@@ -17,6 +17,7 @@
 
 ![Mobx](https://img.shields.io/badge/-MobX-090909?style=for-the-badge&logo=MobX&logoColor)
 
+![GitLab](https://img.shields.io/badge/-GitLab-090909?style=for-the-badge&logo=GitLab&logoColor)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Github&logoColor)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor)
