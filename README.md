@@ -89,7 +89,7 @@
 [![codewars](https://img.shields.io/badge/-codewars-090909?style=for-the-badge&logo=codewars&logoColor=red)](https://www.codewars.com/users/Aleksey%20Logvenkin)
 
 <a href="https://www.codewars.com/users/Aleksey%20Logvenkin" target="_blank">![codewars](https://img.shields.io/badge/-codewars-090909?style=for-the-badge&logo=codewars&logoColor=red)</a>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/aleksey-logvenkin-9292a9209/)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)
 
 [<img src="https://github-readme-stats.vercel.app/api?username=Alex76456&show_icons=true" width="50%" >](https://github.com/Alex76456/github-readme-stats)[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex76456&layout=compact" width="50%"  >](https://github.com/anuraghazra/github-readme-stats)
 
