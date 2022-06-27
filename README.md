@@ -85,9 +85,13 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alogvenkin)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/logvenkin)
+
 [![codewars](https://img.shields.io/badge/-codewars-090909?style=for-the-badge&logo=codewars&logoColor=red)](https://www.codewars.com/users/Aleksey%20Logvenkin)
+
+<a href="https://www.codewars.com/users/Aleksey%20Logvenkin" target="_blank">![codewars](https://img.shields.io/badge/-codewars-090909?style=for-the-badge&logo=codewars&logoColor=red)</a>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/aleksey-logvenkin-9292a9209/)
 
 [<img src="https://github-readme-stats.vercel.app/api?username=Alex76456&show_icons=true" width="50%" >](https://github.com/Alex76456/github-readme-stats)[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex76456&layout=compact" width="50%"  >](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=Alex76456.Alex76456" alt="visitors"></p>
+<a href="http://example.com/" target="_blank">example</a>
