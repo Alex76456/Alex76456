@@ -1,6 +1,6 @@
 [<img src="./assets/Untitled design-Max-Quality.jpg" width="100%">](https://github.com/Alex76456?tab=repositories)
 
-## I'm  front-end developer
+## I'm front-end developer
 
 ## I'm at the beginning of my journey.
 
@@ -8,8 +8,8 @@
 
 ## But more awaits ahead.
 
-
 ### Languages and Tools:
+
 ![typescript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=4F7DB3)
@@ -26,69 +26,68 @@
     </a></br>
 
 ### In progress:
+
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=green)
-
-
 
 # Проекты, которые стоит упомянуть:
 
 ## Командные проекты:
-* ### Murmur - замена твиттера(ведется разработка):
 
-    https://github.com/Alex76456/murmur
+- ### Murmur - замена твиттера(ведется разработка):
 
-    Фронтент/Бекенд/команда -3 человека.
-* ### Хакатон «2025: Гражданин-поэт»:
+  https://github.com/Alex76456/murmur
 
-    https://github.com/Alex76456/talksolver
+  Фронтент/Бекенд/команда -3 человека.
 
-    Совместный предновогодний хакатон веб- и дизайн-факультетов.
+- ### Хакатон «2025: Гражданин-поэт»:
+
+  https://github.com/Alex76456/talksolver
+
+  Совместный предновогодний хакатон веб- и дизайн-факультетов.
 
 ## Собственные проекты:
 
-* ### Vertical-bar-chart:
+- ### Vertical-bar-chart:
 
-    https://github.com/Alex76456/vertical-bar-chart
+  https://github.com/Alex76456/vertical-bar-chart
 
-    React+TypeScript вертикальная столбчатая диаграмма
-* ### Yandex: search-books:
+  React+TypeScript вертикальная столбчатая диаграмма
 
-    https://github.com/Alex76456/search-books
+- ### Yandex: search-books:
 
-    TypeScript https://github.com/Alex76456/search-books-ts
+  https://github.com/Alex76456/search-books
 
-    поисковик книг /хуки/ api/ дизайн-тестовое
-* ### Welbex:
+  TypeScript https://github.com/Alex76456/search-books-ts
 
-    https://github.com/Alex76456/welbex-task
+  поисковик книг /хуки/ api/ дизайн-тестовое
 
-    таблица в формате SPA/сортировка и фильтрация -тестовое
+- ### Welbex:
 
-* ### Pultpage:
+  https://github.com/Alex76456/welbex-task
 
-    https://github.com/Alex76456/pultpage
+  таблица в формате SPA/сортировка и фильтрация -тестовое
 
-    верстка SPA/карусели/динамическое отображение товаров -тестовое
+- ### Pultpage:
 
+  https://github.com/Alex76456/pultpage
 
+  верстка SPA/карусели/динамическое отображение товаров -тестовое
 
 ## Учебные проекты:
-* ### Mesto:
 
-    https://github.com/Alex76456/react-mesto-api-full
+- ### Mesto:
 
-    Проект включает фронтенд и бэкенд части приложения с возможностями: авторизации и регистрации пользователей, операции с карточками и пользователями.
+  https://github.com/Alex76456/react-mesto-api-full
 
+  Проект включает фронтенд и бэкенд части приложения с возможностями: авторизации и регистрации пользователей, операции с карточками и пользователями.
 
 ### Follow Me:
+
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alogvenkin)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/logvenkin)
-[![codewars](https://img.shields.io/badge/-codewars-090909?style=for-the-badge&logo=codewars&logoColor=red)](https://www.codewars.com/users/Aleksey%20L.%2019-cohort-Lime)
+[![codewars](https://img.shields.io/badge/-codewars-090909?style=for-the-badge&logo=codewars&logoColor=red)](https://www.codewars.com/users/Aleksey%20Logvenkin)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/aleksey-logvenkin-9292a9209/)
-
 
 [<img src="https://github-readme-stats.vercel.app/api?username=Alex76456&show_icons=true" width="50%" >](https://github.com/Alex76456/github-readme-stats)[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex76456&layout=compact" width="50%"  >](https://github.com/anuraghazra/github-readme-stats)
 
-
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=Alex76456.Alex76456" alt="visitors"></p>
-
