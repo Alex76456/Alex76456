@@ -2,11 +2,9 @@
 
 ## I'm front-end developer
 
-## I'm at the beginning of my journey.
+## Exploring JavaScript since August 2020.
 
-## A big part of it is behind me.
-
-## But more awaits ahead.
+## Commercial development experience since May 2021.
 
 ### Languages and Tools:
 
