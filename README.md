@@ -31,6 +31,14 @@
 
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor)
 
+## Пример актуального кода:
+
+- ### Sandbox - идеи и фишки приобретенные в коммерческом опыте:
+
+  https://github.com/Alex76456/sandbox-2022
+
+  Фронтент/команда -1 человек.
+
 <!-- # Проекты, которые стоит упомянуть: -->
 
 <!-- ## Командные проекты:
