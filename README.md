@@ -15,6 +15,8 @@
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js&logoColor=green) -->
 <!-- ![Express](https://img.shields.io/badge/-Express.js-090909?style=for-the-badge&logo=Express&logoColor=white) -->
 
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor)
+![Redux-saga](https://img.shields.io/badge/-ReduxSaga-090909?style=for-the-badge&logo=Redux-saga&logoColor)
 ![Mobx](https://img.shields.io/badge/-MobX-090909?style=for-the-badge&logo=MobX&logoColor)
 
 ![GitLab](https://img.shields.io/badge/-GitLab-090909?style=for-the-badge&logo=GitLab&logoColor)
@@ -27,9 +29,7 @@
       <img src="https://www.codewars.com/users/Aleksey%20Logvenkin/badges/micro" alt="Codewars"/>
     </a></br>
 
-### In progress:
-
-![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor)
+<!-- ### In progress: -->
 
 ## Пример актуального кода:
 
