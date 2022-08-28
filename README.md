@@ -33,11 +33,17 @@
 
 ## Пример актуального кода:
 
+- ### Intelogis - тестовое задание:
+
+  https://github.com/Alex76456/Intelogis-test
+
+  TypeScript, React, Redux, Redux-saga, Ant Design (ui)
+
 - ### Sandbox - идеи и фишки приобретенные в коммерческом опыте:
 
   https://github.com/Alex76456/sandbox-2022
 
-  Фронтенд.
+  JavaScript, TypeScript, React, MobX, Material ui
 
 <!-- # Проекты, которые стоит упомянуть: -->
 
