@@ -39,11 +39,11 @@
 
   TypeScript, React, Redux, Redux-saga, Ant Design (ui)
 
-- ### Sandbox - идеи и фишки приобретенные в коммерческом опыте:
+<!-- - ### Sandbox - идеи и фишки приобретенные в коммерческом опыте:
 
   https://github.com/Alex76456/sandbox-2022
 
-  JavaScript, TypeScript, React, MobX, Material ui
+  JavaScript, TypeScript, React, MobX, Material ui -->
 
 <!-- # Проекты, которые стоит упомянуть: -->
 
