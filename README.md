@@ -37,7 +37,7 @@
 
   https://github.com/Alex76456/books-bay
 
-  TypeScript, React, Redux, RTK, RTK Query
+  TypeScript, React, Redux, RTK, RTK Query, Tailwind
 
 - ### Intelogis - тестовое задание:
 
