@@ -112,4 +112,4 @@
 
 <!-- [<img src="https://github-readme-stats.vercel.app/api?username=Alex76456&show_icons=true" width="50%" >](https://github.com/Alex76456/github-readme-stats)[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex76456&layout=compact" width="50%"  >](https://github.com/anuraghazra/github-readme-stats) -->
 
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Alex76456.Alex76456" alt="visitors"></p>
+<!-- <p><img src="https://visitor-badge.glitch.me/badge?page_id=Alex76456.Alex76456" alt="visitors"></p> -->
