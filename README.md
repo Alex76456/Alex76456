@@ -33,6 +33,12 @@
 
 ## Пример актуального кода:
 
+- ### BooksBay - пет проект:
+
+  https://github.com/Alex76456/books-bay
+
+  TypeScript, React, Redux, RTK, RTK Query
+
 - ### Intelogis - тестовое задание:
 
   https://github.com/Alex76456/Intelogis-test
