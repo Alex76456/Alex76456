@@ -97,7 +97,7 @@
 
 ## Учебные проекты:
 
-- ### Mesto:
+- ### Mesto :
 
   https://github.com/Alex76456/react-mesto-api-full
 
