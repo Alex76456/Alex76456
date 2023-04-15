@@ -33,6 +33,12 @@
 
 ## Пример актуального кода:
 
+- ### MazeGame - игра:
+
+  https://github.com/Alex76456/maze-game
+
+  TypeScript, React, Redux, RTK, Tailwind
+
 - ### BooksBay - пет проект:
 
   https://github.com/Alex76456/books-bay
