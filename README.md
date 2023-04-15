@@ -28,6 +28,7 @@
 <a href="https://www.codewars.com/users/Aleksey%20Logvenkin"  target="_blank">
       <img src="https://www.codewars.com/users/Aleksey%20Logvenkin/badges/micro" alt="Codewars"/>
     </a></br>
+    
 
 <!-- ### In progress: -->
 
@@ -101,9 +102,9 @@
 
   верстка SPA/карусели/динамическое отображение товаров -тестовое
 
-## Учебные проекты:
+## Учебные проекты :
 
-- ### Mesto:
+- ### Mesto :
 
   https://github.com/Alex76456/react-mesto-api-full
 
