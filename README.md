@@ -34,11 +34,11 @@
 
 ## Пример актуального кода:
 
-- ### MazeGame - игра:
+- ### IntuitionGame - игра:
 
-  https://github.com/Alex76456/maze-game
+  https://github.com/Alex76456/Intuition-game
 
-  TypeScript, React, Redux, RTK, Tailwind
+  Nextjs, TypeScript, Socket.io, RTK
 
 - ### BooksBay - пет проект:
 
