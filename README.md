@@ -4,7 +4,7 @@
 
 ## Exploring JavaScript since 2019.
 
-## Commercial development experience since May 2021 until today.
+## Commercial development experience since 2020 until today.
 
 ### Languages and Tools:
 
