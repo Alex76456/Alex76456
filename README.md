@@ -2,7 +2,7 @@
 
 ## I'm front-end developer
 
-## Exploring JavaScript since August 2020.
+## Exploring JavaScript since 2019.
 
 ## Commercial development experience since May 2021 until today.
 
