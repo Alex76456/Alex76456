@@ -1,12 +1,19 @@
 [<img src="./assets/Untitled design-Max-Quality.jpg" width="100%">](https://github.com/Alex76456?tab=repositories)
 
-## I'm front-end developer
+## Привет, я Алекс — фронтенд‑разработчик
 
-## Exploring JavaScript since August 2020.
+**Frontend engineer, коммерческий опыт с мая 2021 года.** Делаю интерфейсы, которые остаются понятными и поддерживаемыми, когда продукт и команда растут.
 
-## Commercial development experience since May 2021 until today.
+Сейчас развиваюсь в четырёх направлениях:
 
-### Languages and Tools:
+- **Системный дизайн**: проектирование модульной архитектуры фронтенда и API‑контрактов.
+- **AI‑интеграции**: встраиваю LLM и другие AI‑сервисы в веб‑продукты (ассистенты, рекомендации, генерация контента).
+- **DevOps‑часть**: CI/CD, превью‑окружения, автоматические проверки качества и оптимизация сборки.
+- **Продуктовый взгляд**: работаю от задач бизнеса и метрик, а не только от фич‑листа.
+
+EN: **Frontend engineer focused on system design, AI integrations, DevOps practices and product‑driven development.**
+
+### Languages and Tools
 
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor)
@@ -31,7 +38,7 @@
 
 <!-- ### In progress: -->
 
-## Пример актуального кода:
+## Примеры актуального кода:
 
 - ### Intelogis - тестовое задание:
 
@@ -106,4 +113,3 @@
 [<img src="https://github-readme-stats.vercel.app/api?username=Alex76456&show_icons=true" width="50%" >](https://github.com/Alex76456/github-readme-stats)[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex76456&layout=compact" width="50%"  >](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=Alex76456.Alex76456" alt="visitors"></p>
-<a href="http://example.com/" target="_blank">example</a>
