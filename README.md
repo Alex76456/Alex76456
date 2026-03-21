@@ -44,12 +44,6 @@ EN: **Frontend engineer focused on system design, AI integrations, DevOps practi
 
   Nextjs, TypeScript, Socket.io, RTK
 
-//- ### BooksBay - пет проект:
-
-//  https://github.com/Alex76456/books-bay
-
-//  TypeScript, React, Redux, RTK, RTK Query, Tailwind
-
 - ### Logistics map - логистика заявок на карте:
 
   https://github.com/Alex76456/Logistics-map
