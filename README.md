@@ -38,21 +38,21 @@ EN: **Frontend engineer focused on system design, AI integrations, DevOps practi
 
 ## Примеры актуального кода:
 
-- ### IntuitionGame - игра:
+- ### IntuitionGame -многопользовательская игра на интуицию:
 
   https://github.com/Alex76456/Intuition-game
 
   Nextjs, TypeScript, Socket.io, RTK
 
-- ### BooksBay - пет проект:
+//- ### BooksBay - пет проект:
 
-  https://github.com/Alex76456/books-bay
+//  https://github.com/Alex76456/books-bay
 
-  TypeScript, React, Redux, RTK, RTK Query, Tailwind
+//  TypeScript, React, Redux, RTK, RTK Query, Tailwind
 
-- ### Intelogis - тестовое задание:
+- ### Logistics map - логистика заявок на карте:
 
-  https://github.com/Alex76456/Intelogis-test
+  https://github.com/Alex76456/Logistics-map
 
   TypeScript, React, Redux, Redux-saga, Ant Design (ui)
 
